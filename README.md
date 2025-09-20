@@ -1,0 +1,2 @@
+# scanf-c-language
+ACTIVITY 2 OF C-LANGUAGE SUBJECT
